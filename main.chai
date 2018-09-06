@@ -16,8 +16,8 @@ global stars = List()
 global starImages = []
 
 def conf(t) {
-    t.window.width = 320
-    t.window.height = 240
+    t.window.width = 340
+    t.window.height = 260
     t.version = "0.18.0"
 }
 
